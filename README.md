@@ -30,7 +30,7 @@ Por que isso é importante para minha carreira?
 
 
 
-Introdução
+- INTRODUÇÃO
 Esse relatório faz parte do projeto de conclusão de Fundamentos de Data Science I da Udacity. Esse projeto tem o objetivo de analisar um conjunto de dados demográficos e outras informações relativas de 891 das 2.224 pessoas a bordo do Titanic.
 
 O RMS Titanic foi um navio de passageiros britânico operado pela White Star Line e construído pelos estaleiros da Harland and Wolff em Belfast. Foi a segunda embarcação da Classe Olympic de transatlânticos depois do RMS Olympic e seguido pelo HMHS Britannic. Projetado pelos engenheiros navais Alexander Carlisle e Thomas Andrews, sua construção começou em março de 1909 e ele foi lançado ao mar em maio de 1911. O Titanic foi pensado para ser o navio mais luxuoso e mais seguro de sua época, gerando lendas que era supostamente "inafundável".
@@ -51,33 +51,33 @@ Link: https://www.kaggle.com/c/titanic/data
 Descrição das variáveis do dataset:
 Para nos auxiliar na interpretação do dataset, é possível verificar a legenda dos dados:
 
--Survived: Outcome of survival (0 = No; 1 = Yes)
--Pclass: Socio-economic class (1 = Upper class; 2 = Middle class; 3 = Lower class)
--Name: Name of passenger
--Sex: Sex of the passenger
--Age: Age of the passenger (Some entries contain NaN)
--SibSp: Number of siblings and spouses of the passenger aboard
--Parch: Number of parents and children of the passenger aboard
--Ticket: Ticket number of the passenger
--Fare: Fare paid by the passenger
--Cabin: Cabin number of the passenger (Some entries contain NaN)
--Embarked: Port of embarkation of the passenger (C = Cherbourg; Q = Queenstown; S = Southampton)
+- Survived: Outcome of survival (0 = No; 1 = Yes)
+- Pclass: Socio-economic class (1 = Upper class; 2 = Middle class; 3 = Lower class)
+- Name: Name of passenger
+- Sex: Sex of the passenger
+- Age: Age of the passenger (Some entries contain NaN)
+- SibSp: Number of siblings and spouses of the passenger aboard
+- Parch: Number of parents and children of the passenger aboard
+- Ticket: Ticket number of the passenger
+- Fare: Fare paid by the passenger
+- Cabin: Cabin number of the passenger (Some entries contain NaN)
+- Embarked: Port of embarkation of the passenger (C = Cherbourg; Q = Queenstown; S = Southampton)
 
 
 
 Perguntas:
 A partir dessas informações, é possível realizar alguns brainstormings sobre o acontecimento como:
 
--Quantos passageiros sobreviveram?
--Qual era a idade média? Qual era a idade do mais novo e do mais velho a sobreviver?
--Qual era o valor médio gasto em passagens dos sobreviventes?
--Mais mulheres ou homens sobreviveram ao acidente?
--Qual o percentual de sobreviventes por gênero?
--Qual o percentual de sobreviventes por classe social?
--Qual o percentual de sobreviventes por porto de embarque?
--Qual o percentual de sobreviventes que viajaram sozinhas e/ou com família?
--Qual a média de idade dos sobreviventes?
--De qual porto houve o maior número de passageiros?
-Qual o valor médio gasto por sexo, classe social e porto de embarque?
-Qual o % de sobrevivência entre crianças e adolescentes, adultos e idosos?
-Qual é a idade média dos sobreviventes por porto?
+- Quantos passageiros sobreviveram?
+- Qual era a idade média? Qual era a idade do mais novo e do mais velho a sobreviver?
+- Qual era o valor médio gasto em passagens dos sobreviventes?
+- Mais mulheres ou homens sobreviveram ao acidente?
+- Qual o percentual de sobreviventes por gênero?
+- Qual o percentual de sobreviventes por classe social?
+- Qual o percentual de sobreviventes por porto de embarque?
+- Qual o percentual de sobreviventes que viajaram sozinhas e/ou com família?
+- Qual a média de idade dos sobreviventes?
+- De qual porto houve o maior número de passageiros?
+- Qual o valor médio gasto por sexo, classe social e porto de embarque?
+- Qual o % de sobrevivência entre crianças e adolescentes, adultos e idosos?
+- Qual é a idade média dos sobreviventes por porto?
