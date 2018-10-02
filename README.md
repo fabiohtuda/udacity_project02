@@ -1,6 +1,7 @@
 # udacity_project02
 
 Visão geral do projeto
+
 Neste projeto, você vai analisar um conjunto de dados e, em seguida, comunicar suas conclusões sobre o assunto. Você vai usar as bibliotecas NumPy, Pandas e Matplotlib para facilitar sua análise.
 
 O que é necessário instalar?
