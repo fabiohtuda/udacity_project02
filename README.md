@@ -30,7 +30,7 @@ Por que isso é importante para minha carreira?
 
 
 
-- INTRODUÇÃO
+INTRODUÇÃO
 Esse relatório faz parte do projeto de conclusão de Fundamentos de Data Science I da Udacity. Esse projeto tem o objetivo de analisar um conjunto de dados demográficos e outras informações relativas de 891 das 2.224 pessoas a bordo do Titanic.
 
 O RMS Titanic foi um navio de passageiros britânico operado pela White Star Line e construído pelos estaleiros da Harland and Wolff em Belfast. Foi a segunda embarcação da Classe Olympic de transatlânticos depois do RMS Olympic e seguido pelo HMHS Britannic. Projetado pelos engenheiros navais Alexander Carlisle e Thomas Andrews, sua construção começou em março de 1909 e ele foi lançado ao mar em maio de 1911. O Titanic foi pensado para ser o navio mais luxuoso e mais seguro de sua época, gerando lendas que era supostamente "inafundável".
